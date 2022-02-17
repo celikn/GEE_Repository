@@ -1,1 +1,3 @@
-# Google Earth Engine ile ilgili kodlar icermektedir.
+
+
+Google Earth Engine ile ilgili kodlar icermektedir.
