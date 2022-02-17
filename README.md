@@ -1,1 +1,1 @@
-# GEE_Repository
+# Google Earth Engine ile ilgili kodlar icermektedir.
